@@ -34,4 +34,4 @@ build/
 .vscode/
 
 ### XML ###
-*.xml
+test_file.xml
